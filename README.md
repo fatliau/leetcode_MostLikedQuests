@@ -6,8 +6,9 @@ Using API calls to get all leetcode questions and store its like/dislike counts 
 2. python module sqlalchemy
 
 ## steps
-1. execute the main.py
-2. start querying in sqlite
+before query on the database, you can either
+1. execute the main.py to create and load the database, or
+2. download the leetcode.db
 
 ## check the data
 ### highest like/dislike ratio questions without premium limitation
