@@ -10,7 +10,7 @@ Using API calls to get all leetcode questions and store its like/dislike counts 
 2. start querying in sqlite
 
 ## check the data
-### highest like/dislike ratio question without premium limitation
+### highest like/dislike ratio questions without premium limitation
 ```
 SELECT questionFrontendId, title, isPaidOnly, difficulty, (likes / dislikes) as likeDislike_ratio, likes, dislikes
 FROM questions WHERE isPaidOnly = 0 order by likeDislike_ratio DESC LIMIT 200;
