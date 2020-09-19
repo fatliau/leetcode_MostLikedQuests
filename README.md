@@ -7,8 +7,9 @@ Using API calls to get all leetcode questions and store its like/dislike counts 
 
 ## steps
 before query on the database, you can either
-1. execute the main.py to create and load the database, or
-2. download the leetcode.db
+* execute the main.py to create and load the database, or
+* download the leetcode.db, or
+* download the questions.csv
 
 ## check the data
 ### highest like/dislike ratio questions without premium limitation
