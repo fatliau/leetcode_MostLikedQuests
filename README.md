@@ -4,6 +4,7 @@ Using API calls to get all leetcode questions and store its like/dislike counts 
 ## requirements
 1. python 3
 2. python module sqlalchemy
+3. sqlite3
 
 ## steps
 before query on the database, you can either
