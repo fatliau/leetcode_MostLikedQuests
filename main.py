@@ -2,6 +2,10 @@ import requests
 from requests.exceptions import HTTPError
 from sqlalchemy import create_engine
 from sqlalchemy.exc import SQLAlchemyError
+from sqlalchemy.orm import relationship, backref, sessionmaker
+from deprecated import deprecated
+
+import questionDTO
 
 def get_all_slugs():
     url = "https://leetcode.com/api/problems/all/"
@@ -52,6 +56,7 @@ def createRawTable(dbName='leetcode.db'):
         print("SQL error: {}".format(e))
         raise SQLAlchemyError
 
+@deprecated(reason="use DTO instead of direct string query")
 def insertQuestInfo(quest_json, dbName='leetcode.db'):
     questionId = quest_json.get('questionId', -1)
     questionFrontendId = quest_json.get('questionFrontendId', -1)
@@ -59,7 +64,7 @@ def insertQuestInfo(quest_json, dbName='leetcode.db'):
     titleSlug = quest_json.get('titleSlug', "").replace("'", " ").replace('"', " ").replace(";", " ")
     # content = quest_json.get('content', "") # TODO: store question content
     content = ""
-    isPaidOnly = quest_json.get('isPaidOnly', -1)
+    isPaidOnly = 1 if quest_json.get('isPaidOnly', False) else 0
     difficulty = quest_json.get('difficulty', "").replace("'", " ").replace('"', " ").replace(";", " ")
     likes = quest_json.get('likes', -1)
     dislikes = quest_json.get('dislikes', -1)
@@ -82,13 +87,28 @@ def insert_all_quest():
     for slug in slugs:
         quest_json = get_quest_info(slug)
         if quest_json:
-            insertQuestInfo(quest_json)
+            q_obj = questionDTO.createObjectFromJson(quest_json)
+            try:
+                session = createSession()
+                questionDTO.addQuestion(session, q_obj)
+            except:
+                session.rollback()
+                raise
+            finally:
+                session.close()
         else:
             print("json invalid in {}".format(slug))
         inserted += 1
         print("inserted {}/{}".format(inserted, len(slugs)))
 
 
+def createSession(dbName='leetcode.db'):
+    db_engine = create_engine('sqlite:///{}'.format(dbName))
+    Session = sessionmaker()
+    Session.configure(bind=db_engine)
+    session = Session()
+    return session
+
 if __name__ == "__main__":
-    createRawTable()
+    # createRawTable() # comment out if the table exists
     insert_all_quest()
