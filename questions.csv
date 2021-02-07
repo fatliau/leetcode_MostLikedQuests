@@ -1,6 +1,8 @@
 questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
+1151,"Minimum Swaps to Group All 1 s Together",1,Medium,146,292,2
 1716,"Calculate Money in Leetcode Bank",0,Easy,136,136,1
 990,"Satisfiability of Equality Equations",0,Medium,121,726,6
+1522,"Diameter of N-Ary Tree",1,Medium,103,103,1
 1579,"Remove Max Number of Edges to Keep Graph Fully Traversable",0,Hard,95,287,3
 1368,"Minimum Cost to Make at Least One Valid Path in a Grid",0,Hard,92,462,5
 1434,"Number of Ways to Wear Different Hats to Each Other",0,Hard,91,364,4
@@ -11,24 +13,34 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 72,"Edit Distance",0,Hard,77,5133,66
 1463,"Cherry Pickup II",0,Hard,76,685,9
 1439,"Find the Kth Smallest Sum of a Matrix With Sorted Rows",0,Hard,73,442,6
+1676,"Lowest Common Ancestor of a Binary Tree IV",1,Medium,72,72,1
 1671,"Minimum Number of Removals to Make Mountain Array",0,Hard,70,212,3
+1602,"Find Nearest Right Node in Binary Tree",1,Medium,70,141,2
 1312,"Minimum Insertion Steps to Make a String Palindrome",0,Hard,70,637,9
 1567,"Maximum Length of Subarray With Positive Product",0,Medium,69,345,5
+1264,"Page Recommendations",1,Medium,67,67,1
+286,"Walls and Gates",1,Medium,67,1495,22
 226,"Invert Binary Tree",0,Easy,66,4680,70
 1713,"Minimum Operations to Make a Subsequence",0,Hard,65,195,3
+366,"Find Leaves of Binary Tree",1,Medium,65,1248,19
 42,"Trapping Rain Water",0,Hard,65,9809,149
 1449,"Form Largest Integer With Digits That Add up to Target",0,Hard,64,321,5
 1388,"Pizza With 3n Slices",0,Hard,64,320,5
 208,"Implement Trie (Prefix Tree)",0,Medium,64,4166,65
 1004,"Max Consecutive Ones III",0,Medium,63,1828,29
+1580,"Put Boxes Into the Warehouse II",1,Medium,62,62,1
 1478,"Allocate Mailboxes",0,Hard,62,373,6
+253,"Meeting Rooms II",1,Medium,61,3392,55
 1547,"Minimum Cost to Cut a Stick",0,Hard,60,360,6
 1546,"Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",0,Medium,60,424,7
+1440,"Evaluate Boolean Expression",1,Medium,60,60,1
+1554,"Strings Differ by One Character",1,Medium,59,59,1
 968,"Binary Tree Cameras",0,Hard,59,1139,19
 1530,"Number of Good Leaf Nodes Pairs",0,Medium,58,582,10
 1406,"Stone Game III",0,Hard,58,467,8
 1277,"Count Square Submatrices with All Ones",0,Medium,58,1626,28
 992,"Subarrays with K Different Integers",0,Hard,58,1523,26
+159,"Longest Substring with At Most Two Distinct Characters",1,Medium,58,1219,21
 337,"House Robber III",0,Medium,57,3705,65
 1585,"Check If String Is Transformable With Substring Sort Operations",0,Hard,56,224,4
 1643,"Kth Smallest Instructions",0,Hard,56,168,3
@@ -37,19 +49,25 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 295,"Find Median from Data Stream",0,Hard,54,3693,68
 106,"Construct Binary Tree from Inorder and Postorder Traversal",0,Medium,54,2415,44
 64,"Minimum Path Sum",0,Medium,54,4213,78
+1474,"Delete N Nodes After M Nodes of a Linked List",1,Easy,53,161,3
 983,"Minimum Cost For Tickets",0,Medium,53,2495,47
+1077,"Project Employees III",1,Medium,52,104,2
 632,"Smallest Range Covering Elements from K Lists",0,Hard,52,1324,25
 329,"Longest Increasing Path in a Matrix",0,Hard,52,2694,51
 1664,"Ways to Make a Fair Array",0,Medium,51,309,6
 1319,"Number of Operations to Make Network Connected",0,Medium,51,725,14
 206,"Reverse Linked List",0,Easy,51,6276,121
+487,"Max Consecutive Ones II",1,Medium,50,657,13
+1532,"The Most Recent Three Orders",1,Medium,49,49,1
 1125,"Smallest Sufficient Team",0,Hard,49,448,9
 863,"All Nodes Distance K in Binary Tree",0,Medium,49,3144,64
 84,"Largest Rectangle in Histogram",0,Hard,49,5225,105
+1469,"Find All The Lonely Nodes",1,Easy,48,194,4
 1372,"Longest ZigZag Path in a Binary Tree",0,Medium,48,489,10
 1278,"Palindrome Partitioning III",0,Hard,48,391,8
 240,"Search a 2D Matrix II",0,Medium,48,4155,85
 1358,"Number of Substrings Containing All Three Characters",0,Medium,47,611,13
+1245,"Tree Diameter",1,Medium,47,429,9
 78,Subsets,0,Medium,47,5202,109
 1493,"Longest Subarray of 1 s After Deleting One Element",0,Medium,46,323,7
 174,"Dungeon Game",0,Hard,46,2151,46
@@ -73,8 +91,11 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1482,"Minimum Number of Days to Make m Bouquets",0,Medium,42,727,17
 1455,"Check If a Word Occurs As a Prefix of Any Word in a Sentence",0,Easy,42,252,6
 46,Permutations,0,Medium,42,5352,125
+1644,"Lowest Common Ancestor of a Binary Tree II",1,Medium,41,82,2
 1416,"Restore The Array",0,Hard,41,208,5
+1246,"Palindrome Removal",1,Hard,41,208,5
 583,"Delete Operation for Two Strings",0,Medium,41,1376,33
+582,"Kill Process",1,Medium,41,542,13
 213,"House Robber II",0,Medium,41,2579,62
 102,"Binary Tree Level Order Traversal",0,Medium,41,4158,101
 1365,"How Many Numbers Are Smaller Than the Current Number",0,Easy,40,1385,34
@@ -88,16 +109,20 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1685,"Sum of Absolute Differences in a Sorted Array",0,Medium,38,228,6
 1658,"Minimum Operations to Reduce X to Zero",0,Medium,38,695,18
 1466,"Reorder Routes to Make All Paths Lead to the City Zero",0,Medium,38,540,14
+1100,"Find K-Length Substrings With No Repeated Characters",1,Medium,38,229,6
 518,"Coin Change 2",0,Medium,38,2765,71
 129,"Sum Root to Leaf Numbers",0,Medium,38,2051,53
 123,"Best Time to Buy and Sell Stock III",0,Hard,38,3183,83
 1697,"Checking Existence of Edge Length Limited Paths",0,Hard,37,225,6
+1216,"Valid Palindrome III",1,Hard,37,223,6
+305,"Number of Islands II",1,Hard,37,967,26
 101,"Symmetric Tree",0,Easy,37,5558,147
 39,"Combination Sum",0,Medium,37,5347,142
 1734,"Decode XORed Permutation",0,Medium,36,217,6
 1703,"Minimum Adjacent Swaps for K Consecutive Ones",0,Hard,36,147,4
 1394,"Find Lucky Integer in an Array",0,Easy,36,330,9
 1349,"Maximum Students Taking Exam",0,Hard,36,369,10
+1182,"Shortest Distance to Target Color",1,Medium,36,145,4
 960,"Delete Columns to Make Sorted III",0,Hard,36,292,8
 886,"Possible Bipartition",0,Medium,36,1289,35
 718,"Maximum Length of Repeated Subarray",0,Medium,36,1775,49
@@ -110,6 +135,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1008,"Construct Binary Search Tree from Preorder Traversal",0,Medium,35,1677,47
 962,"Maximum Width Ramp",0,Medium,35,716,20
 678,"Valid Parenthesis String",0,Medium,35,2216,63
+323,"Number of Connected Components in an Undirected Graph",1,Medium,35,1016,29
 47,"Permutations II",0,Medium,35,2707,76
 1653,"Minimum Deletions to Make String Balanced",0,Medium,34,241,7
 1262,"Greatest Sum Divisible by Three",0,Medium,34,660,19
@@ -117,6 +143,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1092,"Shortest Common Supersequence ",0,Hard,34,838,24
 1046,"Last Stone Weight",0,Easy,34,1202,35
 312,"Burst Balloons",0,Hard,34,3330,96
+272,"Closest Binary Search Tree Value II",1,Hard,34,722,21
 198,"House Robber",0,Medium,34,6451,185
 1641,"Count Sorted Vowel Strings",0,Medium,33,698,21
 1574,"Shortest Subarray to be Removed to Make Array Sorted",0,Medium,33,470,14
@@ -129,15 +156,19 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1591,"Strange Printer II",0,Hard,32,164,5
 1457,"Pseudo-Palindromic Paths in a Binary Tree",0,Medium,32,580,18
 1254,"Number of Closed Islands",0,Medium,32,687,21
+1120,"Maximum Average Subtree",1,Medium,32,352,11
 827,"Making A Large Island",0,Hard,32,610,19
 739,"Daily Temperatures",0,Medium,32,3789,118
+1730,"Shortest Path to Get Food",1,Medium,32,32,1
 309,"Best Time to Buy and Sell Stock with Cooldown",0,Medium,32,3381,104
 283,"Move Zeroes",0,Easy,32,4990,155
 200,"Number of Islands",0,Medium,32,7583,234
 1525,"Number of Good Ways to Split a String",0,Medium,31,344,11
 1306,"Jump Game III",0,Medium,31,996,32
 354,"Russian Doll Envelopes",0,Hard,31,1563,49
+325,"Maximum Size Subarray Sum Equals k",1,Medium,31,1131,36
 315,"Count of Smaller Numbers After Self",0,Hard,31,3136,100
+261,"Graph Valid Tree",1,Medium,31,1278,41
 131,"Palindrome Partitioning",0,Medium,31,2971,94
 70,"Climbing Stairs",0,Easy,31,5854,185
 1722,"Minimize Hamming Distance After Swap Operations",0,Medium,30,276,9
@@ -150,6 +181,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 136,"Single Number",0,Easy,30,5673,187
 1415,"The k-th Lexicographical String of All Happy Strings of Length n",0,Medium,29,354,12
 1632,"Rank Transform of a Matrix",0,Hard,29,179,6
+1168,"Optimize Water Distribution in a Village",1,Hard,29,378,13
 876,"Middle of the Linked List",0,Easy,29,2046,69
 695,"Max Area of Island",0,Medium,29,2684,92
 668,"Kth Smallest Number in Multiplication Table",0,Hard,29,671,23
@@ -160,9 +192,11 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1367,"Linked List in Binary Tree",0,Medium,28,704,25
 1371,"Find the Longest Substring Containing Vowels in Even Counts",0,Medium,28,566,20
 1219,"Path with Maximum Gold",0,Medium,28,828,29
+1136,"Parallel Courses",1,Hard,28,253,9
 1028,"Recover a Tree From Preorder Traversal",0,Hard,28,595,21
 940,"Distinct Subsequences II",0,Hard,28,484,17
 567,"Permutation in String",0,Medium,28,2144,76
+340,"Longest Substring with At Most K Distinct Characters",1,Medium,28,1472,52
 115,"Distinct Subsequences",0,Hard,28,1738,62
 109,"Convert Sorted List to Binary Search Tree",0,Medium,28,2651,93
 40,"Combination Sum II",0,Medium,28,2443,85
@@ -177,6 +211,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 956,"Tallest Billboard",0,Hard,27,412,15
 864,"Shortest Path to Get All Keys",0,Hard,27,497,18
 647,"Palindromic Substrings",0,Medium,27,3637,133
+370,"Range Addition",1,Medium,27,631,23
 51,N-Queens,0,Hard,27,2612,96
 1606,"Find Servers That Handled Most Number of Requests",0,Hard,26,183,7
 1263,"Minimum Moves to Move a Box to Their Target Location",0,Hard,26,266,10
@@ -188,6 +223,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 630,"Course Schedule III",0,Hard,26,962,36
 452,"Minimum Number of Arrows to Burst Balloons",0,Medium,26,1581,59
 410,"Split Array Largest Sum",0,Hard,26,2363,90
+358,"Rearrange String k Distance Apart",1,Hard,26,555,21
 216,"Combination Sum III",0,Medium,26,1641,63
 99,"Recover Binary Search Tree",0,Hard,26,2234,85
 96,"Unique Binary Search Trees",0,Medium,26,4267,159
@@ -203,6 +239,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 713,"Subarray Product Less Than K",0,Medium,25,2129,82
 540,"Single Element in a Sorted Array",0,Medium,25,2184,86
 450,"Delete Node in a BST",0,Medium,25,2647,104
+254,"Factor Combinations",1,Medium,25,670,26
 236,"Lowest Common Ancestor of a Binary Tree",0,Medium,25,5075,199
 209,"Minimum Size Subarray Sum",0,Medium,25,3339,133
 77,Combinations,0,Medium,25,2004,79
@@ -211,7 +248,9 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1340,"Jump Game V",0,Hard,24,313,13
 1305,"All Elements in Two Binary Search Trees",0,Medium,24,809,33
 1186,"Maximum Subarray Sum with One Deletion",0,Medium,24,711,29
+1112,"Highest Grade For Each Student",1,Medium,24,98,4
 1074,"Number of Submatrices That Sum to Target",0,Hard,24,746,30
+1135,"Connecting Cities With Minimum Cost",1,Medium,24,414,17
 881,"Boats to Save People",0,Medium,24,1171,48
 873,"Length of Longest Fibonacci Subsequence",0,Medium,24,916,37
 845,"Longest Mountain in Array",0,Medium,24,1057,43
@@ -229,18 +268,23 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1556,"Thousand Separator",0,Easy,23,166,7
 1521,"Find a Value of a Mysterious Function Closest to Target",0,Hard,23,185,8
 1288,"Remove Covered Intervals",0,Medium,23,594,25
+1060,"Missing Element in Sorted Array",1,Medium,23,857,37
 872,"Leaf-Similar Trees",0,Easy,23,1035,44
 768,"Max Chunks To Make Sorted II",0,Hard,23,527,22
 763,"Partition Labels",0,Medium,23,4086,171
 402,"Remove K Digits",0,Medium,23,3030,131
+265,"Paint House II",1,Hard,23,600,26
 148,"Sort List",0,Medium,23,3846,166
 144,"Binary Tree Preorder Traversal",0,Medium,23,2042,86
 79,"Word Search",0,Medium,23,5149,222
+1709,"Biggest Window Between Visits",1,Medium,22,22,1
 1513,"Number of Substrings With Only 1s",0,Medium,22,274,12
 1356,"Sort Integers by The Number of 1 Bits",0,Easy,22,422,19
 1320,"Minimum Distance to Type a Word Using Two Fingers",0,Hard,22,516,23
+1173,"Immediate Food Delivery I",1,Easy,22,90,4
 1054,"Distant Barcodes",0,Medium,22,509,23
 1162,"As Far from Land as Possible",0,Medium,22,751,33
+1101,"The Earliest Moment When Everyone Become Friends",1,Medium,22,157,7
 1024,"Video Stitching",0,Medium,22,667,30
 1014,"Best Sightseeing Pair",0,Medium,22,573,26
 930,"Binary Subarrays With Sum",0,Medium,22,705,31
@@ -253,11 +297,15 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 90,"Subsets II",0,Medium,22,2230,100
 49,"Group Anagrams",0,Medium,22,4851,220
 22,"Generate Parentheses",0,Medium,22,7036,312
+1699,"Number of Calls Between Two Persons",1,Medium,21,21,1
 1704,"Determine if String Halves Are Alike",0,Easy,21,126,6
 1675,"Minimize Deviation in Array",0,Hard,21,382,18
 1575,"Count All Possible Routes",0,Hard,21,195,9
 1438,"Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",0,Medium,21,1158,54
 1423,"Maximum Points You Can Obtain from Cards",0,Medium,21,1032,48
+1285,"Find the Start and End Number of Continuous Ranges",1,Medium,21,171,8
+534,"Game Play Analysis III",1,Medium,21,128,6
+1230,"Toss Strange Coins",1,Medium,21,128,6
 945,"Minimum Increment to Make Array Unique",0,Medium,21,558,26
 918,"Maximum Sum Circular Subarray",0,Medium,21,1480,70
 896,"Monotonic Array",0,Easy,21,887,41
@@ -265,6 +313,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 813,"Largest Sum of Averages",0,Medium,21,1124,53
 767,"Reorganize String",0,Medium,21,2518,118
 559,"Maximum Depth of N-ary Tree",0,Easy,21,1204,56
+428,"Serialize and Deserialize N-ary Tree",1,Hard,21,572,27
 729,"My Calendar I",0,Medium,21,946,44
 301,"Remove Invalid Parentheses",0,Hard,21,3124,145
 297,"Serialize and Deserialize Binary Tree",0,Hard,21,3925,183
@@ -274,6 +323,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 44,"Wildcard Matching",0,Hard,21,2679,127
 1636,"Sort Array by Increasing Frequency",0,Easy,20,270,13
 1529,"Bulb Switcher IV",0,Medium,20,323,16
+1484,"Group Sold Products By The Date",1,Easy,20,100,5
 1462,"Course Schedule IV",0,Medium,20,326,16
 1425,"Constrained Subsequence Sum",0,Hard,20,460,22
 1155,"Number of Dice Rolls With Target Sum",0,Medium,20,1110,55
@@ -302,6 +352,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 951,"Flip Equivalent Binary Trees",0,Medium,19,913,47
 554,"Brick Wall",0,Medium,19,1093,56
 525,"Contiguous Array",0,Medium,19,2622,134
+505,"The Maze II",1,Medium,19,701,36
 463,"Island Perimeter",0,Easy,19,2545,132
 449,"Serialize and Deserialize BST",0,Medium,19,1815,92
 438,"Find All Anagrams in a String",0,Medium,19,3867,195
@@ -309,6 +360,9 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 387,"First Unique Character in a String",0,Easy,19,2622,132
 376,"Wiggle Subsequence",0,Medium,19,1278,65
 368,"Largest Divisible Subset",0,Medium,19,1716,87
+285,"Inorder Successor in BST",1,Medium,19,1417,71
+281,"Zigzag Iterator",1,Medium,19,433,22
+252,"Meeting Rooms",1,Easy,19,836,44
 116,"Populating Next Right Pointers in Each Node",0,Medium,19,3022,159
 92,"Reverse Linked List II",0,Medium,19,3289,169
 62,"Unique Paths",0,Medium,19,4517,234
@@ -316,16 +370,22 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 3,"Longest Substring Without Repeating Characters",0,Medium,19,13009,676
 1524,"Number of Sub-arrays With Odd Sum",0,Medium,18,311,17
 1448,"Count Good Nodes in Binary Tree",0,Medium,18,511,27
+1398,"Customers Who Bought Products A and B but Not C",1,Medium,18,72,4
 1310,"XOR Queries of a Subarray",0,Medium,18,424,23
+1429,"First Unique Number",1,Medium,18,202,11
 1200,"Minimum Absolute Difference",0,Easy,18,519,28
 1192,"Critical Connections in a Network",0,Hard,18,1974,108
 1027,"Longest Arithmetic Subsequence",0,Medium,18,1119,61
 1020,"Number of Enclaves",0,Medium,18,448,24
+1062,"Longest Repeating Substring",1,Medium,18,360,20
+1061,"Lexicographically Smallest Equivalent String",1,Medium,18,129,7
 996,"Number of Squareful Arrays",0,Hard,18,434,23
 917,"Reverse Only Letters",0,Easy,18,738,41
 889,"Construct Binary Tree from Preorder and Postorder Traversal",0,Medium,18,1103,59
 797,"All Paths From Source to Target",0,Medium,18,1591,85
+431,"Encode N-ary Tree to Binary Tree",1,Hard,18,279,15
 673,"Number of Longest Increasing Subsequence",0,Medium,18,2077,115
+608,"Tree Node",1,Medium,18,221,12
 514,"Freedom Trail",0,Hard,18,496,27
 442,"Find All Duplicates in an Array",0,Medium,18,3241,173
 378,"Kth Smallest Element in a Sorted Matrix",0,Medium,18,3273,173
@@ -336,6 +396,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 182,"Duplicate Emails",0,Easy,18,584,31
 169,"Majority Element",0,Easy,18,4460,246
 56,"Merge Intervals",0,Medium,18,6426,355
+1587,"Bank Account Summary II",1,Easy,17,35,2
 1526,"Minimum Number of Increments on Subarrays to Form a Target Array",0,Hard,17,285,16
 1473,"Paint House III",0,Hard,17,315,18
 1477,"Find Two Non-overlapping Sub-arrays Each With Target Sum",0,Medium,17,654,37
@@ -348,8 +409,11 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1019,"Next Greater Node In Linked List",0,Medium,17,1185,67
 977,"Squares of a Sorted Array",0,Easy,17,2001,113
 905,"Sort Array By Parity",0,Easy,17,1516,85
+489,"Robot Room Cleaner",1,Hard,17,1378,80
 796,"Rotate String",0,Easy,17,990,58
+510,"Inorder Successor in BST II",1,Medium,17,426,25
 486,"Predict the Winner",0,Medium,17,1791,101
+369,"Plus One Linked List",1,Medium,17,618,36
 347,"Top K Frequent Elements",0,Medium,17,4422,253
 279,"Perfect Squares",0,Medium,17,3940,228
 218,"The Skyline Problem",0,Hard,17,2669,151
@@ -357,6 +421,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 75,"Sort Colors",0,Medium,17,4804,272
 16,"3Sum Closest",0,Medium,17,2856,164
 1673,"Find the Most Competitive Subsequence",0,Medium,16,646,40
+1650,"Lowest Common Ancestor of a Binary Tree III",1,Medium,16,64,4
 1686,"Stone Game VI",0,Medium,16,179,11
 1624,"Largest Substring Between Two Equal Characters",0,Easy,16,167,10
 1594,"Maximum Non Negative Product in a Matrix",0,Medium,16,284,17
@@ -368,17 +433,22 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1691,"Maximum Height by Stacking Cuboids ",0,Hard,16,146,9
 1147,"Longest Chunked Palindrome Decomposition",0,Hard,16,249,15
 1106,"Parsing A Boolean Expression",0,Hard,16,318,19
+1229,"Meeting Scheduler",1,Medium,16,316,19
+1165,"Single-Row Keyboard",1,Easy,16,202,12
 1010,"Pairs of Songs With Total Durations Divisible by 60",0,Medium,16,1145,69
 965,"Univalued Binary Tree",0,Easy,16,736,46
 922,"Sort Array By Parity II",0,Easy,16,913,57
 870,"Advantage Shuffle",0,Medium,16,656,41
 786,"K-th Smallest Prime Fraction",0,Hard,16,475,28
 741,"Cherry Pickup",0,Hard,16,1472,89
+727,"Minimum Window Subsequence",1,Hard,16,851,51
 698,"Partition to K Equal Sum Subsets",0,Medium,16,2603,159
+694,"Number of Distinct Islands",1,Medium,16,1109,69
 680,"Valid Palindrome II",0,Easy,16,2292,143
 542,"01 Matrix",0,Medium,16,2076,124
 515,"Find Largest Value in Each Tree Row",0,Medium,16,1199,71
 477,"Total Hamming Distance",0,Medium,16,1040,64
+471,"Encode String with Shortest Length",1,Hard,16,431,26
 380,"Insert Delete GetRandom O(1)",0,Medium,16,3250,194
 331,"Verify Preorder Serialization of a Binary Tree",0,Medium,16,888,55
 307,"Range Sum Query - Mutable",0,Medium,16,1684,100
@@ -391,27 +461,35 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1718,"Construct the Lexicographically Largest Valid Sequence",0,Medium,15,156,10
 1717,"Maximum Score From Removing Substrings",0,Medium,15,183,12
 1657,"Determine if Two Strings Are Close",0,Medium,15,384,25
+1634,"Add Two Polynomials Represented as Linked Lists",1,Medium,15,30,2
 1584,"Min Cost to Connect All Points",0,Medium,15,360,24
 1578,"Minimum Deletion Cost to Avoid Repeating Letters",0,Medium,15,281,18
 1558,"Minimum Numbers of Function Calls to Make Target Array",0,Medium,15,230,15
+1490,"Clone N-ary Tree",1,Medium,15,125,8
 1392,"Longest Happy Prefix",0,Hard,15,303,19
 1334,"Find the City With the Smallest Number of Neighbors at a Threshold Distance",0,Medium,15,477,31
 1218,"Longest Arithmetic Subsequence of Given Difference",0,Medium,15,473,30
 1171,"Remove Zero Sum Consecutive Nodes from Linked List",0,Medium,15,762,48
 1105,"Filling Bookcase Shelves",0,Medium,15,793,50
 1048,"Longest String Chain",0,Medium,15,1414,94
+1063,"Number of Valid Subarrays",1,Hard,15,120,8
+1055,"Shortest Way to Form String",1,Medium,15,579,38
 1000,"Minimum Cost to Merge Stones",0,Hard,15,845,55
 907,"Sum of Subarray Minimums",0,Medium,15,1763,115
 875,"Koko Eating Bananas",0,Medium,15,1273,81
 821,"Shortest Distance to a Character",0,Easy,15,1459,93
 798,"Smallest Rotation with Highest Score",0,Hard,15,256,17
 795,"Number of Subarrays with Bounded Maximum",0,Medium,15,700,45
+737,"Sentence Similarity II",1,Medium,15,561,36
 689,"Maximum Sum of 3 Non-Overlapping Subarrays",0,Hard,15,1162,73
 670,"Maximum Swap",0,Medium,15,1352,87
 547,"Number of Provinces",0,Medium,15,2685,172
 543,"Diameter of Binary Tree",0,Easy,15,4200,264
 538,"Convert BST to Greater Tree",0,Medium,15,2234,142
 456,"132 Pattern",0,Medium,15,2106,134
+425,"Word Squares",1,Hard,15,689,44
+317,"Shortest Distance from All Buildings",1,Hard,15,947,60
+291,"Word Pattern II",1,Medium,15,487,32
 215,"Kth Largest Element in an Array",0,Medium,15,5093,330
 110,"Balanced Binary Tree",0,Easy,15,3156,207
 83,"Remove Duplicates from Sorted List",0,Easy,15,2247,143
@@ -421,9 +499,11 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1537,"Get the Maximum Score",0,Hard,14,300,21
 1505,"Minimum Possible Integer After at Most K Adjacent Swaps On Digits",0,Hard,14,198,14
 1510,"Stone Game IV",0,Hard,14,374,25
+1412,"Find the Quiet Students in All Exams",1,Hard,14,70,5
 1419,"Minimum Number of Frogs Croaking",0,Medium,14,400,28
 1347,"Minimum Number of Steps to Make Two Strings Anagram",0,Medium,14,469,32
 1337,"The K Weakest Rows in a Matrix",0,Easy,14,531,36
+1430,"Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",1,Medium,14,87,6
 1292,"Maximum Side Length of a Square with Sum Less than or Equal to Threshold",0,Medium,14,464,31
 1287,"Element Appearing More Than 25% In Sorted Array",0,Easy,14,401,28
 1122,"Relative Sort Array",0,Easy,14,957,66
@@ -434,18 +514,23 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 915,"Partition Array into Disjoint Intervals",0,Medium,14,434,30
 841,"Keys and Rooms",0,Medium,14,1439,102
 784,"Letter Case Permutation",0,Medium,14,1673,114
+702,"Search in a Sorted Array of Unknown Size",1,Medium,14,463,31
 701,"Insert into a Binary Search Tree",0,Medium,14,1394,95
 766,"Toeplitz Matrix",0,Easy,14,1280,88
 765,"Couples Holding Hands",0,Hard,14,957,67
+759,"Employee Free Time",1,Hard,14,742,51
 740,"Delete and Earn",0,Medium,14,1341,95
 730,"Count Different Palindromic Subsequences",0,Hard,14,715,49
 692,"Top K Frequent Words",0,Medium,14,2673,183
 646,"Maximum Length of Pair Chain",0,Medium,14,1241,87
+642,"Design Search Autocomplete System",1,Hard,14,1202,85
+603,"Consecutive Available Seats",1,Easy,14,285,20
 546,"Remove Boxes",0,Hard,14,814,56
 451,"Sort Characters By Frequency",0,Medium,14,2115,143
 437,"Path Sum III",0,Medium,14,4749,319
 409,"Longest Palindrome",0,Easy,14,1430,97
 373,"Find K Pairs with Smallest Sums",0,Medium,14,1780,122
+348,"Design Tic-Tac-Toe",1,Medium,14,977,68
 334,"Increasing Triplet Subsequence",0,Medium,14,2269,161
 95,"Unique Binary Search Trees II",0,Medium,14,2809,197
 76,"Minimum Window Substring",0,Hard,14,5961,409
@@ -459,10 +544,17 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1535,"Find the Winner of an Array Game",0,Medium,13,287,22
 1504,"Count Submatrices With All Ones",0,Medium,13,745,54
 1396,"Design Underground System",0,Medium,13,481,36
+1369,"Get the Second Most Recent Activity",1,Hard,13,53,4
 1383,"Maximum Performance of a Team",0,Hard,13,355,26
 1345,"Jump Game IV",0,Hard,13,552,41
+1303,"Find the Team Size",1,Easy,13,120,9
 1208,"Get Equal Substrings Within Budget",0,Medium,13,368,28
+1259,"Handshakes That Don t Cross",1,Hard,13,80,6
+1188,"Design Bounded Blocking Queue",1,Medium,13,233,17
+1231,"Divide Chocolate",1,Hard,13,433,32
 1095,"Find in Mountain Array",0,Hard,13,449,34
+1215,"Stepping Numbers",1,Medium,13,131,10
+1066,"Campus Bikes II",1,Medium,13,492,37
 995,"Minimum Number of K Consecutive Bit Flips",0,Hard,13,464,34
 974,"Subarray Sums Divisible by K",0,Medium,13,1416,108
 931,"Minimum Falling Path Sum",0,Medium,13,1059,80
@@ -475,13 +567,16 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 792,"Number of Matching Subsequences",0,Medium,13,1238,89
 589,"N-ary Tree Preorder Traversal",0,Easy,13,827,63
 429,"N-ary Tree Level Order Traversal",0,Medium,13,825,59
+663,"Equal Tree Partition",1,Medium,13,319,23
 650,"2 Keys Keyboard",0,Medium,13,1595,115
 557,"Reverse Words in a String III",0,Easy,13,1329,99
+549,"Binary Tree Longest Consecutive Sequence II",1,Medium,13,663,49
 516,"Longest Palindromic Subsequence",0,Medium,13,2770,212
 480,"Sliding Window Median",0,Hard,13,1248,95
 448,"Find All Numbers Disappeared in an Array",0,Easy,13,3816,279
 363,"Max Sum of Rectangle No Larger Than K",0,Hard,13,1019,75
 316,"Remove Duplicate Letters",0,Medium,13,2180,166
+243,"Shortest Word Distance",1,Easy,13,646,48
 242,"Valid Anagram",0,Easy,13,2186,157
 142,"Linked List Cycle II",0,Medium,13,3744,282
 124,"Binary Tree Maximum Path Sum",0,Hard,13,5084,368
@@ -493,9 +588,12 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1130,"Minimum Cost Tree From Leaf Values",0,Medium,12,1876,145
 1286,"Iterator for Combination",0,Medium,12,553,46
 1091,"Shortest Path in Binary Matrix",0,Medium,12,796,62
+1213,"Intersection of Three Sorted Arrays",1,Easy,12,230,19
+1198,"Find Smallest Common Element in All Rows",1,Medium,12,165,13
 997,"Find the Town Judge",0,Easy,12,1365,110
 894,"All Possible Full Binary Trees",0,Medium,12,1264,104
 778,"Swim in Rising Water",0,Hard,12,797,62
+776,"Split BST",1,Medium,12,711,55
 590,"N-ary Tree Postorder Traversal",0,Easy,12,887,73
 715,"Range Module",0,Hard,12,575,47
 669,"Trim a Binary Search Tree",0,Medium,12,2635,208
@@ -509,10 +607,13 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 399,"Evaluate Division",0,Medium,12,3166,250
 381,"Insert Delete GetRandom O(1) - Duplicates allowed",0,Hard,12,1049,85
 318,"Maximum Product of Word Lengths",0,Medium,12,957,79
+296,"Best Meeting Point",1,Hard,12,570,46
+270,"Closest Binary Search Tree Value",1,Easy,12,947,74
 238,"Product of Array Except Self",0,Medium,12,6635,519
 224,"Basic Calculator",0,Hard,12,1968,155
 59,"Spiral Matrix II",0,Medium,12,1522,125
 11,"Container With Most Water",0,Medium,12,8298,657
+1724,"Checking Existence of Edge Length Limited Paths II",1,Hard,11,11,1
 1742,"Maximum Number of Balls in a Box",0,Easy,11,79,7
 1684,"Count the Number of Consistent Strings",0,Easy,11,178,16
 1553,"Minimum Number of Days to Eat N Oranges",0,Hard,11,375,32
@@ -525,14 +626,20 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1253,"Reconstruct a 2-Row Binary Matrix",0,Medium,11,179,15
 1191,"K-Concatenation Maximum Sum",0,Medium,11,453,41
 1115,"Print FooBar Alternately",0,Medium,11,336,29
+511,"Game Play Analysis I",1,Easy,11,58,5
+1166,"Design File System",1,Medium,11,132,12
 1022,"Sum of Root To Leaf Binary Numbers",0,Easy,11,1034,87
 903,"Valid Permutations for DI Sequence",0,Hard,11,335,29
 430,"Flatten a Multilevel Doubly Linked List",0,Medium,11,2038,184
+426,"Convert Binary Search Tree to Sorted Doubly Linked List",1,Medium,11,1188,106
 735,"Asteroid Collision",0,Medium,11,1750,154
 691,"Stickers to Spell Word",0,Hard,11,475,42
 1721,"Swapping Nodes in a Linked List",0,Medium,11,179,16
 473,"Matchsticks to Square",0,Medium,11,724,62
 403,"Frog Jump",0,Hard,11,1409,125
+294,"Flip Game II",1,Medium,11,440,37
+256,"Paint House",1,Medium,11,1116,98
+255,"Verify Preorder Sequence in Binary Search Tree",1,Medium,11,708,60
 229,"Majority Element II",0,Medium,11,2430,213
 173,"Binary Search Tree Iterator",0,Medium,11,3402,306
 117,"Populating Next Right Pointers in Each Node II",0,Medium,11,2243,195
@@ -549,21 +656,31 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1338,"Reduce Array Size to The Half",0,Medium,10,372,37
 1342,"Number of Steps to Reduce a Number to Zero",0,Easy,10,689,68
 1309,"Decrypt String from Alphabet to Integer Mapping",0,Easy,10,485,48
+1270,"All People Report to the Given Manager",1,Medium,10,153,14
 1268,"Search Suggestions System",0,Medium,10,892,89
 1255,"Maximum Score Words Formed by Letters",0,Hard,10,248,24
+1225,"Report Contiguous Dates",1,Hard,10,109,10
+1204,"Last Person to Fit in the Elevator",1,Medium,10,114,11
 1706,"Where Will the Ball Fall",0,Medium,10,183,17
 1189,"Maximum Number of Balloons",0,Easy,10,450,45
 1156,"Swap For Longest Repeated Character Substring",0,Medium,10,433,40
+1272,"Remove Interval",1,Medium,10,180,17
+1214,"Two Sum BSTs",1,Medium,10,240,22
 1072,"Flip Columns For Maximum Number of Equal Rows",0,Medium,10,329,30
 1052,"Grumpy Bookstore Owner",0,Medium,10,649,63
 1038,"Binary Search Tree to Greater Sum Tree",0,Medium,10,1187,109
+1133,"Largest Unique Number",1,Easy,10,120,11
 890,"Find and Replace Pattern",0,Medium,10,887,83
 828,"Count Unique Characters of All Substrings of a Given String",0,Hard,10,570,56
 785,"Is Graph Bipartite?",0,Medium,10,2150,208
+465,"Optimal Account Balancing",1,Hard,10,703,70
 446,"Arithmetic Slices II - Subsequence",0,Hard,10,624,62
 445,"Add Two Numbers II",0,Medium,10,2123,195
 404,"Sum of Left Leaves",0,Easy,10,1669,161
+362,"Design Hit Counter",1,Medium,10,973,94
 336,"Palindrome Pairs",0,Hard,10,1660,164
+333,"Largest BST Subtree",1,Medium,10,782,75
+280,"Wiggle Sort",1,Medium,10,706,68
 234,"Palindrome Linked List",0,Easy,10,4593,421
 222,"Count Complete Tree Nodes",0,Medium,10,2678,247
 214,"Shortest Palindrome",0,Hard,10,1497,146
@@ -579,10 +696,14 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1552,"Magnetic Force Between Two Balls",0,Medium,9,449,47
 1544,"Make The String Great",0,Easy,9,333,36
 1518,"Water Bottles",0,Easy,9,365,37
+1495,"Friendly Movies Streamed Last Month",1,Easy,9,28,3
 1531,"String Compression II",0,Hard,9,265,27
 1523,"Count Odd Numbers in an Interval Range",0,Easy,9,185,20
+1454,"Active Users",1,Medium,9,134,14
 1443,"Minimum Time to Collect All Apples in a Tree",0,Medium,9,513,56
+1407,"Top Travellers",1,Easy,9,45,5
 1414,"Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",0,Medium,9,362,40
+1350,"Students With Invalid Departments",1,Easy,9,66,7
 1359,"Count All Valid Pickup and Delivery Options",0,Hard,9,249,27
 1335,"Minimum Difficulty of a Job Schedule",0,Hard,9,496,51
 1326,"Minimum Number of Taps to Open to Water a Garden",0,Hard,9,490,53
@@ -590,9 +711,14 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1296,"Divide Array in Sets of K Consecutive Numbers",0,Medium,9,618,63
 1239,"Maximum Length of a Concatenated String with Unique Characters",0,Medium,9,720,78
 1184,"Distance Between Bus Stops",0,Easy,9,314,34
+1126,"Active Businesses",1,Medium,9,108,12
 1289,"Minimum Falling Path Sum II",0,Hard,9,329,33
 1291,"Sequential Digits",0,Medium,9,492,52
+1257,"Smallest Common Region",1,Medium,9,187,19
+1102,"Path With Maximum Minimum Value",1,Medium,9,625,68
 1029,"Two City Scheduling",0,Medium,9,1727,190
+1099,"Two Sum Less Than K",1,Easy,9,480,52
+1087,"Brace Expansion",1,Medium,9,305,33
 1009,"Complement of Base 10 Integer",0,Easy,9,417,43
 1005,"Maximize Sum Of Array After K Negations",0,Easy,9,497,53
 1002,"Find Common Characters",0,Easy,9,1293,133
@@ -607,24 +733,31 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 757,"Set Intersection Size At Least Two",0,Hard,9,333,37
 743,"Network Delay Time",0,Medium,9,2321,243
 664,"Strange Printer",0,Hard,9,538,55
+644,"Maximum Average Subarray II",1,Hard,9,469,51
 637,"Average of Levels in Binary Tree",0,Easy,9,1659,180
 594,"Longest Harmonious Subsequence",0,Easy,9,1086,117
+586,"Customer Placing the Largest Number of Orders",1,Easy,9,130,14
+570,"Managers with at Least 5 Direct Reports",1,Medium,9,128,14
 565,"Array Nesting",0,Medium,9,977,105
 502,IPO,0,Hard,9,466,47
 459,"Repeated Substring Pattern",0,Easy,9,2230,226
 421,"Maximum XOR of Two Numbers in an Array",0,Medium,9,1904,207
 392,"Is Subsequence",0,Easy,9,2179,229
+346,"Moving Average from Data Stream",1,Easy,9,775,83
 287,"Find the Duplicate Number",0,Medium,9,6721,723
+259,"3Sum Smaller",1,Medium,9,780,80
 232,"Implement Queue using Stacks",0,Easy,9,1532,162
 201,"Bitwise AND of Numbers Range",0,Medium,9,1270,141
 183,"Customers Who Never Order",0,Easy,9,485,53
 179,"Largest Number",0,Medium,9,2771,298
 114,"Flatten Binary Tree to Linked List",0,Medium,9,3835,391
 15,3Sum,0,Medium,9,9377,965
+1715,"Count Apples and Oranges",1,Medium,8,16,2
 1732,"Find the Highest Altitude",0,Easy,8,107,12
 1712,"Ways to Split Array Into Three Subarrays",0,Medium,8,279,32
 1621,"Number of Sets of K Non-Overlapping Line Segments",0,Medium,8,168,20
 1601,"Maximum Number of Achievable Transfer Requests",0,Hard,8,161,19
+1564,"Put Boxes Into the Warehouse I",1,Medium,8,61,7
 1588,"Sum of All Odd Length Subarrays",0,Easy,8,526,64
 1509,"Minimum Difference Between Largest and Smallest Value in Three Moves",0,Medium,8,257,32
 1481,"Least Number of Unique Integers after K Removals",0,Medium,8,289,33
@@ -633,13 +766,19 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1400,"Construct K Palindrome Strings",0,Medium,8,291,36
 1295,"Find Numbers with Even Number of Digits",0,Easy,8,574,71
 1284,"Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",0,Hard,8,266,30
+1251,"Average Selling Price",1,Easy,8,134,16
 1224,"Maximum Equal Frequency",0,Hard,8,234,27
+1212,"Team Scores in Football Tournament",1,Medium,8,129,15
 1206,"Design Skiplist",0,Hard,8,219,25
 1178,"Number of Valid Words for Each Puzzle",0,Hard,8,260,32
 1157,"Online Majority Element In Subarray",0,Hard,8,280,32
 1330,"Reverse Subarray To Maximize Array Value",0,Hard,8,209,26
 1137,"N-th Tribonacci Number",0,Easy,8,456,51
 1124,"Longest Well-Performing Interval",0,Medium,8,553,69
+1199,"Minimum Time to Build Blocks",1,Hard,8,113,14
+1228,"Missing Number In Arithmetic Progression",1,Easy,8,106,12
+1183,"Maximum Number of Ones",1,Hard,8,73,9
+1196,"How Many Apples Can You Put into the Basket",1,Easy,8,91,11
 952,"Largest Component Size by Common Factor",0,Hard,8,540,67
 941,"Valid Mountain Array",0,Easy,8,793,89
 901,"Online Stock Span",0,Medium,8,1287,155
@@ -650,8 +789,12 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 823,"Binary Trees With Factors",0,Medium,8,345,39
 706,"Design HashMap",0,Easy,8,1263,141
 654,"Maximum Binary Tree",0,Medium,8,2303,262
+624,"Maximum Distance in Arrays",1,Medium,8,480,59
+573,"Squirrel Simulation",1,Medium,8,254,29
 566,"Reshape the Matrix",0,Easy,8,931,107
 493,"Reverse Pairs",0,Hard,8,1221,137
+490,"The Maze",1,Medium,8,958,107
+439,"Ternary Expression Parser",1,Medium,8,283,32
 432,"All O`one Data Structure",0,Hard,8,740,87
 406,"Queue Reconstruction by Height",0,Medium,8,3825,433
 395,"Longest Substring with At Least K Repeating Characters",0,Medium,8,2247,255
@@ -660,6 +803,8 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 328,"Odd Even Linked List",0,Medium,8,2776,330
 327,"Count of Range Sum",0,Hard,8,969,108
 290,"Word Pattern",0,Easy,8,1694,208
+277,"Find the Celebrity",1,Medium,8,1383,154
+266,"Palindrome Permutation",1,Easy,8,527,59
 181,"Employees Earning More Than Their Managers",0,Easy,8,741,88
 171,"Excel Sheet Column Number",0,Easy,8,1529,190
 160,"Intersection of Two Linked Lists",0,Easy,8,4856,549
@@ -671,24 +816,33 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 63,"Unique Paths II",0,Medium,8,2418,278
 25,"Reverse Nodes in k-Group",0,Hard,8,3249,394
 21,"Merge Two Sorted Lists",0,Easy,8,6049,719
+1731,"The Number of Employees Which Report to Each Employee",1,Easy,7,15,2
 1739,"Building Boxes",0,Hard,7,114,15
 1678,"Goal Parser Interpretation",0,Easy,7,171,23
 1674,"Minimum Moves to Make Array Complementary",0,Medium,7,240,33
 1665,"Minimum Initial Energy to Finish Tasks",0,Hard,7,182,23
+1612,"Check If Two Expression Trees are Equivalent",1,Medium,7,49,7
+1596,"The Most Frequently Ordered Products for Each Customer",1,Medium,7,45,6
+1586,"Binary Search Tree Iterator II",1,Medium,7,60,8
 1569,"Number of Ways to Reorder Array to Get Same BST",0,Hard,7,171,22
 1520,"Maximum Number of Non-Overlapping Substrings",0,Hard,7,320,44
 1489,"Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",0,Hard,7,209,29
 1472,"Design Browser History",0,Medium,7,392,51
+1393,"Capital Gain/Loss",1,Medium,7,71,10
 1395,"Count Number of Teams",0,Medium,7,790,112
 1387,"Sort Integers by The Power Value",0,Medium,7,347,49
 1366,"Rank Teams by Votes",0,Medium,7,377,51
 1354,"Construct Target Array With Multiple Sums",0,Hard,7,240,34
 1353,"Maximum Number of Events That Can Be Attended",0,Medium,7,706,94
+1280,"Students and Examinations",1,Easy,7,135,18
+1428,"Leftmost Column with at Least a One",1,Medium,7,401,53
 1172,"Dinner Plate Stacks",0,Hard,7,221,28
 1627,"Graph Connectivity With Threshold",0,Hard,7,151,19
 1081,"Smallest Subsequence of Distinct Characters",0,Medium,7,786,107
 1043,"Partition Array for Maximum Sum",0,Medium,7,1012,127
 1039,"Minimum Score Triangulation of Polygon",0,Medium,7,588,77
+1150,"Check If a Number Is Majority Element in a Sorted Array",1,Easy,7,170,23
+1134,"Armstrong Number",1,Easy,7,81,11
 1013,"Partition Array Into Three Parts With Equal Sum",0,Easy,7,611,79
 981,"Time Based Key-Value Store",0,Medium,7,1067,135
 938,"Range Sum of BST",0,Easy,7,2024,279
@@ -700,31 +854,54 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 684,"Redundant Connection",0,Medium,7,1856,240
 674,"Longest Continuous Increasing Subsequence",0,Easy,7,1057,135
 652,"Find Duplicate Subtrees",0,Medium,7,1757,230
+616,"Add Bold Tag in String",1,Medium,7,614,84
+613,"Shortest Distance in a Line",1,Easy,7,187,26
+588,"Design In-Memory File System",1,Hard,7,500,67
 513,"Find Bottom Left Tree Value",0,Medium,7,1219,163
 472,"Concatenated Words",0,Hard,7,1057,140
 467,"Unique Substrings in Wraparound String",0,Medium,7,744,98
 455,"Assign Cookies",0,Easy,7,803,114
 433,"Minimum Genetic Mutation",0,Medium,7,513,70
 413,"Arithmetic Slices",0,Medium,7,1358,187
+361,"Bomb Enemy",1,Medium,7,538,75
 330,"Patching Array",0,Hard,7,590,83
+314,"Binary Tree Vertical Order Traversal",1,Medium,7,1363,190
+308,"Range Sum Query 2D - Mutable",1,Hard,7,479,63
 289,"Game of Life",0,Medium,7,2436,323
+267,"Palindrome Permutation II",1,Medium,7,530,68
 175,"Combine Two Tables",0,Easy,7,1085,153
 141,"Linked List Cycle",0,Easy,7,4034,576
 135,Candy,0,Hard,7,1313,186
 67,"Add Binary",0,Easy,7,2496,326
 18,4Sum,0,Medium,7,2905,392
+1740,"Find Distance in a Binary Tree",1,Medium,6,31,5
 1720,"Decode XORed Array",0,Easy,6,128,20
+1660,"Correct a Binary Tree",1,Medium,6,52,8
 1649,"Create Sorted Array through Instructions",0,Hard,6,322,49
+1613,"Find the Missing IDs",1,Medium,6,54,8
 1629,"Slowest Key",0,Easy,6,150,23
 1617,"Count Subtrees With Max Distance Between Cities",0,Hard,6,139,21
 1608,"Special Array With X Elements Greater Than or Equal X",0,Easy,6,211,35
+1571,"Warehouse Manager",1,Easy,6,38,6
+1570,"Dot Product of Two Sparse Vectors",1,Medium,6,176,27
 1566,"Detect Pattern of Length M Repeated K or More Times",0,Easy,6,265,44
+1549,"The Most Recent Orders for Each Product",1,Medium,6,27,4
+1501,"Countries You Can Safely Invest In",1,Medium,6,61,10
+1485,"Clone Binary Tree With Random Pointer",1,Medium,6,133,22
+1468,"Calculate Salaries",1,Medium,6,42,7
+1445,"Apples & Oranges",1,Medium,6,57,9
 1373,"Maximum Sum BST in Binary Tree",0,Hard,6,367,61
+1321,"Restaurant Growth",1,Medium,6,123,18
 1323,"Maximum 69 Number",0,Easy,6,495,82
+1294,"Weather Type in Each Country",1,Easy,6,43,7
 1266,"Minimum Time Visiting All Points",0,Easy,6,700,112
+1426,"Counting Elements",1,Easy,6,54,8
+1242,"Web Crawler Multithreaded",1,Medium,6,232,38
 1483,"Kth Ancestor of a Tree Node",0,Hard,6,363,53
 1363,"Largest Multiple of Three",0,Hard,6,223,37
+1274,"Number of Ships in a Rectangle",1,Hard,6,165,24
 1300,"Sum of Mutated Array Closest to Target",0,Medium,6,426,67
+512,"Game Play Analysis II",1,Easy,6,86,13
 1160,"Find Words That Can Be Formed by Characters",0,Easy,6,536,89
 1032,"Stream of Characters",0,Hard,6,750,111
 1007,"Minimum Domino Rotations For Equal Row",0,Medium,6,1179,190
@@ -736,16 +913,22 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 622,"Design Circular Queue",0,Medium,6,791,116
 826,"Most Profit Assigning Work",0,Medium,6,462,74
 705,"Design HashSet",0,Easy,6,641,100
+774,"Minimize Max Distance to Gas Station",1,Hard,6,407,64
 771,"Jewels and Stones",0,Easy,6,2477,395
 769,"Max Chunks To Make Sorted",0,Medium,6,948,137
+750,"Number Of Corner Rectangles",1,Medium,6,511,78
 696,"Count Binary Substrings",0,Easy,6,1188,197
 693,"Binary Number with Alternating Bits",0,Easy,6,581,91
 677,"Map Sum Pairs",0,Medium,6,612,92
 658,"Find K Closest Elements",0,Medium,6,1859,300
+651,"4 Keys Keyboard",1,Medium,6,417,62
 648,"Replace Words",0,Medium,6,910,140
 643,"Maximum Average Subarray I",0,Easy,6,894,129
 600,"Non-negative Integers without Consecutive Ones",0,Hard,6,489,77
+531,"Lonely Pixel I",1,Medium,6,219,32
+1059,"All Paths from Source Lead to Destination",1,Medium,6,207,34
 491,"Increasing Subsequences",0,Medium,6,901,133
+484,"Find Permutation",1,Medium,6,420,68
 464,"Can I Win",0,Medium,6,1211,198
 440,"K-th Smallest in Lexicographical Order",0,Hard,6,392,59
 304,"Range Sum Query 2D - Immutable",0,Medium,6,1359,201
@@ -755,33 +938,50 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 10,"Regular Expression Matching",0,Hard,6,5324,823
 4,"Median of Two Sorted Arrays",0,Hard,6,9110,1403
 1738,"Find Kth Largest XOR Coordinate Value",0,Medium,5,97,18
+1692,"Count Ways to Distribute Candies",1,Hard,5,22,4
+1682,"Longest Palindromic Subsequence II",1,Medium,5,36,7
+1633,"Percentage of Users Attended a Contest",1,Easy,5,15,3
+1628,"Design an Expression Tree With Evaluate Function",1,Medium,5,65,12
 1669,"Merge In Between Linked Lists",0,Medium,5,204,36
 1652,"Defuse the Bomb",0,Easy,5,155,28
 1630,"Arithmetic Subarrays",0,Medium,5,156,27
+1607,"Sellers With No Sales",1,Easy,5,22,4
 1615,"Maximal Network Rank",0,Medium,5,171,30
 1573,"Number of Ways to Split a String",0,Medium,5,224,40
+1533,"Find the Index of the Large Integer",1,Medium,5,44,8
 1536,"Minimum Swaps to Arrange a Binary Grid",0,Medium,5,263,50
+1511,"Customer Order Frequency",1,Easy,5,90,17
 1508,"Range Sum of Sorted Subarray Sums",0,Medium,5,263,52
 1447,"Simplified Fractions",0,Medium,5,126,25
 1375,"Bulb Switcher III",0,Medium,5,418,70
 1346,"Check If N and Its Double Exist",0,Easy,5,288,49
 1343,"Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",0,Medium,5,197,37
+1308,"Running Total for Different Genders",1,Medium,5,80,15
 1283,"Find the Smallest Divisor Given a Threshold",0,Medium,5,672,122
+1265,"Print Immutable Linked List in Reverse",1,Medium,5,247,49
 1261,"Find Elements in a Contaminated Binary Tree",0,Medium,5,307,52
+1618,"Maximum Font to Fit a Sentence in a Screen",1,Medium,5,30,6
 1233,"Remove Sub-Folders from the Filesystem",0,Medium,5,323,57
 1232,"Check If It Is a Straight Line",0,Easy,5,505,86
 1220,"Count Vowels Permutation",0,Hard,5,281,52
 1217,"Minimum Cost to Move Chips to The Same Position",0,Easy,5,171,30
+1193,"Monthly Transactions I",1,Medium,5,55,11
 1203,"Sort Items by Groups Respecting Dependencies",0,Hard,5,353,65
 1405,"Longest Happy String",0,Medium,5,472,93
 1550,"Three Consecutive Odds",0,Easy,5,179,32
+1148,"Article Views I",1,Easy,5,46,9
 1329,"Sort the Matrix Diagonally",0,Medium,5,809,148
 1146,"Snapshot Array",0,Medium,5,714,135
 1314,"Matrix Block Sum",0,Medium,5,758,136
 1619,"Mean of Array After Removing Some Elements",0,Easy,5,113,22
 1109,"Corporate Flight Bookings",0,Medium,5,626,118
 1114,"Print in Order",0,Easy,5,664,116
+1083,"Sales Analysis II",1,Easy,5,101,20
+1045,"Customers Who Bought All Products",1,Medium,5,107,20
+1180,"Count Substrings with Only One Distinct Letter",1,Easy,5,179,34
+1086,"High Five",1,Easy,5,378,68
 1012,"Numbers With Repeated Digits",0,Hard,5,257,51
+1057,"Campus Bikes",1,Medium,5,635,113
 991,"Broken Calculator",0,Medium,5,577,102
 988,"Smallest String Starting From Leaf",0,Medium,5,560,109
 959,"Regions Cut By Slashes",0,Medium,5,1157,225
@@ -797,6 +997,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 805,"Split Array With Same Average",0,Hard,5,475,92
 802,"Find Eventual Safe States",0,Medium,5,1041,200
 780,"Reaching Points",0,Hard,5,661,121
+742,"Closest Leaf in a Binary Tree",1,Medium,5,562,111
 725,"Split Linked List in Parts",0,Medium,5,875,148
 724,"Find Pivot Index",0,Easy,5,1565,309
 721,"Accounts Merge",0,Medium,5,2082,389
@@ -805,20 +1006,30 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 679,"24 Game",0,Hard,5,861,169
 662,"Maximum Width of Binary Tree",0,Medium,5,2022,371
 621,"Task Scheduler",0,Medium,5,4348,834
+610,"Triangle Judgement",1,Easy,5,131,24
+607,"Sales Person",1,Easy,5,156,31
+580,"Count Student Number in Departments",1,Medium,5,118,21
+568,"Maximum Vacation Days",1,Hard,5,354,60
+562,"Longest Line of Consecutive One in Matrix",1,Medium,5,429,77
 552,"Student Attendance Record II",0,Hard,5,677,127
+536,"Construct Binary Tree from String",1,Medium,5,498,98
 526,"Beautiful Arrangement",0,Medium,5,1127,201
 508,"Most Frequent Subtree Sum",0,Medium,5,805,139
+499,"The Maze III",1,Hard,5,233,46
 474,"Ones and Zeroes",0,Medium,5,1346,262
 391,"Perfect Rectangle",0,Hard,5,445,83
 367,"Valid Perfect Square",0,Easy,5,1103,191
 355,"Design Twitter",0,Medium,5,1188,225
 343,"Integer Break",0,Medium,5,1418,248
 282,"Expression Add Operators",0,Hard,5,1543,262
+269,"Alien Dictionary",1,Hard,5,2301,455
 231,"Power of Two",0,Easy,5,1217,212
 202,"Happy Number",0,Easy,5,2858,483
+186,"Reverse Words in a String II",1,Medium,5,546,106
 178,"Rank Scores",0,Medium,5,866,161
 168,"Excel Sheet Column Title",0,Easy,5,1553,283
 164,"Maximum Gap",0,Hard,5,1067,204
+161,"One Edit Distance",1,Medium,5,795,134
 154,"Find Minimum in Rotated Sorted Array II",0,Hard,5,1396,266
 138,"Copy List with Random Pointer",0,Medium,5,4542,786
 137,"Single Number II",0,Medium,5,2345,396
@@ -826,6 +1037,8 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 60,"Permutation Sequence",0,Hard,5,2035,354
 54,"Spiral Matrix",0,Medium,5,3427,636
 41,"First Missing Positive",0,Hard,5,5123,929
+1741,"Find Total Time Spent by Each Employee",1,Easy,4,8,2
+1698,"Number of Distinct Substrings in a String",1,Medium,4,32,8
 1688,"Count of Matches in Tournament",0,Easy,4,178,41
 1672,"Richest Customer Wealth",0,Easy,4,309,73
 1662,"Check If Two String Arrays are Equivalent",0,Easy,4,275,65
@@ -878,6 +1091,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 764,"Largest Plus Sign",0,Medium,4,542,113
 746,"Min Cost Climbing Stairs",0,Easy,4,2808,607
 732,"My Calendar III",0,Hard,4,438,107
+716,"Max Stack",1,Easy,4,882,209
 685,"Redundant Connection II",0,Hard,4,1003,240
 676,"Implement Magic Dictionary",0,Medium,4,693,151
 665,"Non-decreasing Array",0,Medium,4,2469,593
@@ -888,7 +1102,12 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 417,"Pacific Atlantic Water Flow",0,Medium,4,1722,400
 415,"Add Strings",0,Easy,4,1525,361
 405,"Convert a Number to Hexadecimal",0,Easy,4,557,126
+359,"Logger Rate Limiter",1,Easy,4,678,138
+320,"Generalized Abbreviation",1,Medium,4,483,113
 313,"Super Ugly Number",0,Medium,4,784,158
+302,"Smallest Rectangle Enclosing Black Pixels",1,Hard,4,231,55
+298,"Binary Tree Longest Consecutive Sequence",1,Medium,4,606,148
+249,"Group Shifted Strings",1,Medium,4,681,139
 205,"Isomorphic Strings",0,Easy,4,1809,447
 189,"Rotate Array",0,Medium,4,4106,904
 185,"Department Top Three Salaries",0,Hard,4,683,147
@@ -899,30 +1118,53 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 52,"N-Queens II",0,Hard,4,742,176
 36,"Valid Sudoku",0,Medium,4,2302,523
 2,"Add Two Numbers",0,Medium,4,10738,2606
+1729,"Find Followers Count",1,Easy,3,15,5
+1693,"Daily Leads and Partners",1,Easy,3,19,5
 1735,"Count Ways to Make Array With Product",0,Hard,3,71,18
+1645,"Hopper Company Queries II",1,Hard,3,11,3
 1659,"Maximize Grid Happiness",0,Hard,3,115,38
 1668,"Maximum Repeating Substring",0,Easy,3,104,31
 1654,"Minimum Jumps to Reach Home",0,Medium,3,188,52
+1597,"Build Binary Expression Tree From Infix Expression",1,Hard,3,47,12
 1622,"Fancy Sequence",0,Hard,3,144,40
+1581,"Customer Who Visited but Did Not Make Any Transactions",1,Easy,3,36,11
+1555,"Bank Account Summary",1,Medium,3,46,12
 1528,"Shuffle String",0,Easy,3,442,111
 1471,"The k Strongest Values in an Array",0,Medium,3,217,65
 1450,"Number of Students Doing Homework at a Given Time",0,Easy,3,313,81
 1433,"Check If a String Can Break Another String",0,Medium,3,250,72
 1413,"Minimum Value to Get Positive Step by Step Sum",0,Easy,3,307,88
 1401,"Circle and Rectangle Overlapping",0,Medium,3,148,45
+1327,"List the Products Ordered in a Period",1,Easy,3,41,13
+1322,"Ads Performance",1,Easy,3,96,26
 1324,"Print Words Vertically",0,Medium,3,209,61
 1307,"Verbal Arithmetic Puzzle",0,Hard,3,191,60
 1281,"Subtract the Product and Sum of Digits of an Integer",0,Easy,3,458,128
 1275,"Find Winner on a Tic Tac Toe Game",0,Easy,3,296,93
 1223,"Dice Roll Simulation",0,Hard,3,498,157
 1210,"Minimum Moves to Reach Target with Rotations",0,Hard,3,145,42
+1164,"Product Price at a Given Date",1,Medium,3,123,32
 1138,"Alphabet Board Path",0,Medium,3,362,95
+1273,"Delete Tree Nodes",1,Medium,3,150,43
 1103,"Distribute Candies to People",0,Easy,3,481,138
 1104,"Path In Zigzag Labelled Binary Tree",0,Medium,3,555,182
+1097,"Game Play Analysis V",1,Hard,3,68,19
+1258,"Synonymous Sentences",1,Medium,3,121,40
 1117,"Building H2O",0,Medium,3,226,66
+550,"Game Play Analysis IV",1,Medium,3,96,31
+1244,"Design A Leaderboard",1,Medium,3,204,55
+1084,"Sales Analysis III",1,Easy,3,103,30
+1082,"Sales Analysis I",1,Easy,3,91,30
+1076,"Project Employees II",1,Easy,3,74,20
+1050,"Actors and Directors Who Cooperated At Least Three Times",1,Easy,3,66,17
+1167,"Minimum Cost to Connect Sticks",1,Medium,3,467,129
 1044,"Longest Duplicate Substring",0,Hard,3,759,246
 1041,"Robot Bounded In Circle",0,Medium,3,779,235
+1121,"Divide Array Into Increasing Sequences",1,Hard,3,66,21
+1088,"Confusing Number II",1,Hard,3,238,68
 1018,"Binary Prefix Divisible By 5",0,Easy,3,337,103
+1067,"Digit Count in Range",1,Hard,3,46,12
+1064,"Fixed Point",1,Easy,3,182,47
 1001,"Grid Illumination",0,Hard,3,237,67
 975,"Odd Even Jump",0,Hard,3,861,261
 970,"Powerful Integers",0,Medium,3,3,1
@@ -940,8 +1182,12 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 687,"Longest Univalue Path",0,Medium,3,2148,544
 659,"Split Array into Consecutive Subsequences",0,Medium,3,1473,466
 628,"Maximum Product of Three Numbers",0,Easy,3,1453,419
+615,"Average Salary: Departments VS Company",1,Hard,3,115,37
+602,"Friend Requests II: Who Has the Most Friends",1,Medium,3,180,55
 599,"Minimum Index Sum of Two Lists",0,Easy,3,741,231
 561,"Array Partition I",0,Easy,3,120,32
+548,"Split Array with Equal Sum",1,Medium,3,270,88
+544,"Output Contest Matches",1,Medium,3,299,98
 539,"Minimum Time Difference",0,Medium,3,623,169
 501,"Find Mode in Binary Search Tree",0,Easy,3,1209,396
 436,"Find Right Interval",0,Medium,3,668,187
@@ -949,10 +1195,18 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 389,"Find the Difference",0,Easy,3,1173,310
 383,"Ransom Note",0,Easy,3,791,227
 382,"Linked List Random Node",0,Medium,3,872,231
+364,"Nested List Weight Sum II",1,Medium,3,671,204
+360,"Sort Transformed Array",1,Medium,3,387,112
 352,"Data Stream as Disjoint Intervals",0,Hard,3,449,116
 350,"Intersection of Two Arrays II",0,Easy,3,1978,496
 342,"Power of Four",0,Easy,3,791,248
+339,"Nested List Weight Sum",1,Medium,3,752,210
 321,"Create Maximum Number",0,Hard,3,882,263
+276,"Paint Fence",1,Easy,3,877,288
+250,"Count Univalue Subtrees",1,Medium,3,655,174
+247,"Strobogrammatic Number II",1,Medium,3,520,144
+245,"Shortest Word Distance III",1,Medium,3,238,76
+244,"Shortest Word Distance II",1,Medium,3,453,141
 204,"Count Primes",0,Easy,3,2699,719
 190,"Reverse Bits",0,Easy,3,1552,509
 187,"Repeated DNA Sequences",0,Medium,3,1108,327
@@ -961,18 +1215,33 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 127,"Word Ladder",0,Hard,3,4620,1391
 81,"Search in Rotated Sorted Array II",0,Medium,3,1904,560
 1690,"Stone Game VII",0,Medium,2,171,70
+1661,"Average Time of Process per Machine",1,Easy,2,23,8
+1635,"Hopper Company Queries I",1,Hard,2,17,8
+1565,"Unique Orders and Customers Per Month",1,Easy,2,27,13
 1603,"Design Parking System",0,Easy,2,235,91
+1538,"Guess the Majority in a Hidden Array",1,Medium,2,40,16
+1517,"Find Users With Valid E-Mails",1,Easy,2,44,21
+1506,"Find Root of N-Ary Tree",1,Medium,2,207,71
+1479,"Sales by Day of the Week",1,Hard,2,48,18
 1486,"XOR Operation in an Array",0,Easy,2,378,180
 1492,"The kth Factor of n",0,Medium,2,283,116
+1384,"Total Sales Amount by Year",1,Hard,2,76,28
+1355,"Activity Participants",1,Medium,2,51,22
 1377,"Frog Position After T Seconds",0,Hard,2,171,61
 1260,"Shift 2D Grid",0,Easy,2,294,113
 1247,"Minimum Swaps to Make Strings Equal",0,Medium,2,434,163
 1361,"Validate Binary Tree Nodes",0,Medium,2,309,108
+1159,"Market Analysis II",1,Hard,2,49,20
+1158,"Market Analysis I",1,Medium,2,50,22
+1149,"Article Views II",1,Medium,2,45,16
 1128,"Number of Equivalent Domino Pairs",0,Easy,2,289,144
 1089,"Duplicate Zeros",0,Easy,2,796,274
 1073,"Adding Two Negabinary Numbers",0,Medium,2,145,66
+1197,"Minimum Knight Moves",1,Medium,2,526,217
+1153,"String Transforms Into Another String",1,Hard,2,515,184
 1036,"Escape a Large Maze",0,Hard,2,272,109
 1030,"Matrix Cells in Distance Order",0,Easy,2,278,138
+1065,"Index Pairs of a String",1,Easy,2,129,54
 985,"Sum of Even Numbers After Queries",0,Easy,2,471,181
 971,"Flip Binary Tree To Match Preorder Traversal",0,Medium,2,329,154
 961,"N-Repeated Element in Size 2N Array",0,Easy,2,580,256
@@ -990,20 +1259,32 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 853,"Car Fleet",0,Medium,2,550,230
 842,"Split Array into Fibonacci Sequence",0,Medium,2,582,195
 775,"Global and Local Inversions",0,Medium,2,516,195
+772,"Basic Calculator III",1,Hard,2,564,219
 761,"Special Binary String",0,Hard,2,382,128
+760,"Find Anagram Mappings",1,Easy,2,389,173
 728,"Self Dividing Numbers",0,Easy,2,803,307
+723,"Candy Crush",1,Medium,2,514,212
+656,"Coin Path",1,Hard,2,180,88
 645,"Set Mismatch",0,Easy,2,828,349
+635,"Design Log Storage System",1,Medium,2,304,136
+612,"Shortest Distance in a Plane",1,Medium,2,116,42
 605,"Can Place Flowers",0,Easy,2,1279,434
+604,"Design Compressed String Iterator",1,Easy,2,285,103
+571,"Find Median Given Frequency of Numbers",1,Hard,2,126,44
 524,"Longest Word in Dictionary through Deleting",0,Medium,2,719,261
 520,"Detect Capital",0,Easy,2,758,287
 517,"Super Washing Machines",0,Hard,2,389,160
 498,"Diagonal Traverse",0,Medium,2,1156,394
 485,"Max Consecutive Ones",0,Easy,2,1068,380
+418,"Sentence Screen Fitting",1,Medium,2,516,243
+353,"Design Snake Game",1,Medium,2,487,205
 344,"Reverse String",0,Easy,2,2038,750
 341,"Flatten Nested List Iterator",0,Medium,2,1993,768
 332,"Reconstruct Itinerary",0,Medium,2,2451,1182
 324,"Wiggle Sort II",0,Medium,2,1280,635
+311,"Sparse Matrix Multiplication",1,Medium,2,609,238
 278,"First Bad Version",0,Easy,2,1946,796
+271,"Encode and Decode Strings",1,Medium,2,526,178
 191,"Number of 1 Bits",0,Easy,2,1341,611
 150,"Evaluate Reverse Polish Notation",0,Medium,2,1424,507
 111,"Minimum Depth of Binary Tree",0,Easy,2,2124,792
@@ -1014,16 +1295,21 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 31,"Next Permutation",0,Medium,2,4917,1696
 1736,"Latest Time by Replacing Hidden Digits",0,Easy,1,74,39
 1711,"Count Good Meals",0,Medium,1,164,123
+1683,"Invalid Tweets",1,Easy,1,27,24
 1705,"Maximum Number of Eaten Apples",0,Medium,1,214,112
 1719,"Number Of Ways To Reconstruct A Tree",0,Hard,1,49,39
+1714,"Sum Of Special Evenly-Spaced Elements In Array",1,Hard,1,8,7
 1689,"Partitioning Into Minimum Number Of Deci-Binary Numbers",0,Medium,1,133,117
 1680,"Concatenation of Consecutive Binary Numbers",0,Medium,1,223,165
 1681,"Minimum Incompatibility",0,Hard,1,99,77
+1651,"Hopper Company Queries III",1,Hard,1,5,5
 1638,"Count Substrings That Differ by One Character",0,Medium,1,141,86
 1616,"Split Two Strings to Make Palindrome",0,Medium,1,246,143
 1611,"Minimum One Bit Operations to Make Integers Zero",0,Hard,1,122,90
 1576,"Replace All ? s to Avoid Consecutive Repeating Characters",0,Easy,1,150,86
 1568,"Minimum Number of Days to Disconnect Island",0,Hard,1,170,95
+1548,"The Most Similar Path in a Graph",1,Hard,1,121,61
+1543,"Fix Product Name Format",1,Easy,1,26,17
 1540,"Can Convert String in K Moves",0,Medium,1,188,147
 1503,"Last Moment Before All Ants Fall Out of a Plank",0,Medium,1,208,142
 1467,"Probability of a Two Boxes Having The Same Number of Distinct Balls",0,Hard,1,143,114
@@ -1031,8 +1317,10 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1452,"People Whose List of Favorite Companies Is Not a Subset of Another List",0,Medium,1,148,148
 1437,"Check If All 1 s Are at Least Length K Places Away",0,Easy,1,239,173
 1397,"Find All Good Strings",0,Hard,1,172,88
+1378,"Replace Employee ID With The Unique Identifier",1,Easy,1,32,19
 1391,"Check if There is a Valid Path in a Grid",0,Medium,1,289,161
 1386,"Cinema Seat Allocation",0,Medium,1,209,154
+1341,"Movie Rating",1,Medium,1,51,28
 1317,"Convert Integer to the Sum of Two No-Zero Integers",0,Easy,1,148,145
 1304,"Find N Unique Integers Sum up to Zero",0,Easy,1,483,283
 1298,"Maximum Candies You Can Get from Boxes",0,Hard,1,107,92
@@ -1040,17 +1328,27 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1282,"Group the People Given the Group Size They Belong To",0,Medium,1,496,352
 1238,"Circular Permutation in Binary Representation",0,Medium,1,130,120
 1221,"Split a String in Balanced Strings",0,Easy,1,901,554
+1194,"Tournament Winners",1,Hard,1,55,29
 1195,"Fizz Buzz Multithreaded",0,Medium,1,219,154
 1201,"Ugly Number III",0,Medium,1,381,269
 1179,"Reformat Department Table",0,Easy,1,232,167
+1174,"Immediate Food Delivery II",1,Medium,1,44,36
 1177,"Can Make Palindrome from Substring",0,Medium,1,319,183
 1362,"Closest Divisors",0,Medium,1,95,61
 1144,"Decrease Elements To Make Array Zigzag",0,Medium,1,155,116
+1141,"User Activity for the Past 30 Days I",1,Easy,1,41,31
 1131,"Maximum of Absolute Value Expression",0,Medium,1,276,241
+1127,"User Purchase Platform",1,Hard,1,78,59
 1116,"Print Zero Even Odd",0,Medium,1,222,150
+1107,"New Users Daily Count",1,Medium,1,57,48
 1096,"Brace Expansion II",0,Hard,1,251,155
+1243,"Array Transformation",1,Easy,1,76,39
+1068,"Product Sales Analysis I",1,Easy,1,54,47
+1119,"Remove Vowels from a String",1,Easy,1,155,88
 1023,"Camelcase Matching",0,Medium,1,310,163
 1017,"Convert to Base -2",0,Medium,1,212,181
+1056,"Confusing Number",1,Easy,1,103,76
+1058,"Minimize Rounding Error to Meet Target",1,Medium,1,87,81
 948,"Bag of Tokens",0,Medium,1,458,254
 924,"Minimize Malware Spread",0,Hard,1,379,291
 911,"Online Election",0,Medium,1,443,365
@@ -1059,36 +1357,51 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 867,"Transpose Matrix",0,Easy,1,576,328
 859,"Buddy Strings",0,Easy,1,871,603
 837,"New 21 Game",0,Medium,1,668,396
+708,"Insert into a Sorted Circular Linked List",1,Medium,1,469,388
 804,"Unique Morse Code Words",0,Easy,1,873,804
 790,"Domino and Tromino Tiling",0,Medium,1,493,270
 781,"Rabbits in Forest",0,Medium,1,355,349
 777,"Swap Adjacent in LR String",0,Medium,1,494,475
 703,"Kth Largest Element in a Stream",0,Easy,1,1084,646
+758,"Bold Words in String",1,Easy,1,169,86
 754,"Reach a Number",0,Medium,1,669,528
 745,"Prefix and Suffix Search",0,Hard,1,443,223
 736,"Parse Lisp Expression",0,Hard,1,311,234
 697,"Degree of an Array",0,Easy,1,1180,896
 690,"Employee Importance",0,Easy,1,881,816
 686,"Repeated String Match",0,Medium,1,969,827
+683,"K Empty Slots",1,Hard,1,637,600
 675,"Cut Off Trees for Golf Event",0,Hard,1,634,366
 657,"Robot Return to Origin",0,Easy,1,1193,688
 649,"Dota2 Senate",0,Medium,1,308,250
 638,"Shopping Offers",0,Medium,1,678,507
+634,"Find the Derangement of An Array",1,Medium,1,142,123
 633,"Sum of Square Numbers",0,Medium,1,635,367
 627,"Swap Salary",0,Easy,1,565,308
 626,"Exchange Seats",0,Medium,1,389,283
+625,"Minimum Factorization",1,Medium,1,101,90
 620,"Not Boring Movies",0,Easy,1,333,316
+619,"Biggest Single Number",1,Easy,1,84,77
 587,"Erect the Fence",0,Hard,1,273,198
+585,"Investments in 2016",1,Medium,1,122,103
+584,"Find Customer Referee",1,Easy,1,96,60
+577,"Employee Bonus",1,Easy,1,105,53
+569,"Median Employee Salary",1,Hard,1,124,77
 529,Minesweeper,0,Medium,1,799,618
+527,"Word Abbreviation",1,Hard,1,244,157
 504,"Base 7",0,Easy,1,278,158
 466,"Count The Repetitions",0,Hard,1,211,187
 441,"Arranging Coins",0,Easy,1,832,774
+422,"Valid Word Square",1,Easy,1,204,132
 419,"Battleships in a Board",0,Medium,1,887,569
+411,"Minimum Unique Word Abbreviation",1,Hard,1,141,130
 397,"Integer Replacement",0,Medium,1,472,352
 390,"Elimination Game",0,Medium,1,527,393
 284,"Peeking Iterator",0,Medium,1,617,439
 268,"Missing Number",0,Easy,1,2536,2440
 262,"Trips and Users",0,Hard,1,470,317
+251,"Flatten 2D Vector",1,Medium,1,419,242
+248,"Strobogrammatic Number III",1,Hard,1,209,152
 228,"Summary Ranges",0,Easy,1,911,665
 225,"Implement Stack using Queues",0,Easy,1,936,657
 217,"Contains Duplicate",0,Easy,1,1423,824
@@ -1096,6 +1409,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 192,"Word Frequency",0,Medium,1,252,172
 177,"Nth Highest Salary",0,Medium,1,557,436
 176,"Second Highest Salary",0,Easy,1,1015,511
+170,"Two Sum III - Data structure design",1,Easy,1,373,282
 147,"Insertion Sort List",0,Medium,1,947,667
 133,"Clone Graph",0,Medium,1,2692,1626
 122,"Best Time to Buy and Sell Stock II",0,Easy,1,3622,1911
@@ -1105,10 +1419,15 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 9,"Palindrome Number",0,Easy,1,3008,1697
 1744,"Can You Eat Your Favorite Candy on Your Favorite Day?",0,Medium,0,50,161
 1737,"Change Minimum Characters to Satisfy One of Three Conditions",0,Medium,0,121,174
+1708,"Largest Subarray Length K",1,Easy,0,26,37
 1733,"Minimum Number of People to Teach",0,Medium,0,65,200
+1677,"Product s Worth Over Invoices",1,Easy,0,8,14
 1694,"Reformat Phone Number",0,Easy,0,79,85
+1667,"Fix Names in a Table",1,Easy,0,11,14
+1666,"Change the Root of a Binary Tree",1,Medium,0,23,47
 1656,"Design an Ordered Stream",0,Easy,0,68,467
 1646,"Get Maximum in Generated Array",0,Easy,0,143,215
+1623,"All Valid Triplets That Can Represent a Country",1,Easy,0,22,30
 1625,"Lexicographically Smallest String After Applying Operations",0,Medium,0,121,172
 1637,"Widest Vertical Area Between Two Points Containing No Points",0,Medium,0,58,175
 1610,"Maximum Number of Visible Points",0,Hard,0,121,188
@@ -1119,13 +1438,19 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1604,"Alert Using Same Key-Card Three or More Times in a One Hour Period",0,Medium,0,78,137
 1583,"Count Unhappy Friends",0,Medium,0,93,351
 1560,"Most Visited Sector in  a Circular Track",0,Easy,0,110,275
+1527,"Patients With a Condition",1,Easy,0,20,47
 1534,"Count Good Triplets",0,Easy,0,176,487
+1516,"Move Sub-Tree of N-Ary Tree",1,Hard,0,12,27
 1519,"Number of Nodes in the Sub-Tree With the Same Label",0,Medium,0,219,235
+1500,"Design a File Sharing System",1,Medium,0,22,55
 1515,"Best Position for a Service Centre",0,Hard,0,102,135
 1487,"Making File Names Unique",0,Medium,0,204,356
+1459,"Rectangles Area",1,Medium,0,28,41
 1476,"Subrectangle Queries",0,Medium,0,157,433
+1435,"Create a Session Bar Chart",1,Easy,0,52,100
 1453,"Maximum Number of Darts Inside of a Circular Dartboard",0,Hard,0,84,206
 1441,"Build an Array With Stack Operations",0,Easy,0,229,390
+1421,"NPV Queries",1,Medium,0,10,143
 1418,"Display Table of Food Orders in a Restaurant",0,Medium,0,103,220
 1432,"Max Difference You Can Get From Changing an Integer",0,Medium,0,96,125
 1410,"HTML Entity Parser",0,Medium,0,78,197
@@ -1134,48 +1459,69 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 1389,"Create Target Array in the Given Order",0,Easy,0,415,569
 1399,"Count Largest Group",0,Easy,0,162,404
 1379,"Find a Corresponding Node of a Binary Tree in a Clone of That Tree",0,Medium,0,407,543
+1364,"Number of Trusted Contacts of a Customer",1,Medium,0,27,151
 1374,"Generate a String With Characters That Have Odd Counts",0,Easy,0,156,680
 1385,"Find the Distance Value Between Two Arrays",0,Easy,0,155,627
 1370,"Increasing Decreasing String",0,Easy,0,309,321
 1348,"Tweet Counts Per Frequency",0,Medium,0,90,554
+1336,"Number of Transactions per Visit",1,Hard,0,28,147
 1357,"Apply Discount Every n Orders",0,Medium,0,70,99
 1333,"Filter Restaurants by Vegan-Friendly, Price and Distance",0,Medium,0,116,117
 1332,"Remove Palindromic Subsequences",0,Easy,0,301,616
 1311,"Get Watched Videos by Your Friends",0,Medium,0,136,213
+1279,"Traffic Light Controlled Intersection",1,Easy,0,33,183
 1276,"Number of Burgers with No Waste of Ingredients",0,Medium,0,132,148
 1252,"Cells with Odd Values in a Matrix",0,Easy,0,411,679
+1241,"Number of Comments per Post",1,Easy,0,86,195
 1250,"Check If It Is a Good Array",0,Hard,0,127,200
 1227,"Airplane Seat Assignment Probability",0,Medium,0,235,414
 1240,"Tiling a Rectangle with the Fewest Squares",0,Hard,0,267,280
 1237,"Find Positive Integer Solution for a Given Equation",0,Medium,0,202,869
 1226,"The Dining Philosophers",0,Medium,0,115,117
+1211,"Queries Quality and Percentage",1,Easy,0,49,87
+1205,"Monthly Transactions II",1,Medium,0,67,181
 1185,"Day of the Week",0,Easy,0,150,1367
 1390,"Four Divisors",0,Medium,0,91,108
 1507,"Reformat Date",0,Easy,0,96,192
+1176,"Diet Plan Performance",1,Easy,0,75,208
 1175,"Prime Arrangements",0,Easy,0,155,265
 1360,"Number of Days Between Two Dates",0,Easy,0,86,486
 1170,"Compare Strings by Frequency of the Smallest Character",0,Medium,0,326,783
 1169,"Invalid Transactions",0,Medium,0,130,845
+1236,"Web Crawler",1,Medium,0,119,148
 1154,"Day of the Year",0,Easy,0,137,199
 1328,"Break a Palindrome",0,Medium,0,254,277
+1142,"User Activity for the Past 30 Days II",1,Easy,0,44,172
 1316,"Distinct Echo Substrings",0,Hard,0,100,134
 1313,"Decompress Run-Length Encoded List",0,Easy,0,397,729
+1132,"Reported Posts II",1,Medium,0,70,225
 1123,"Lowest Common Ancestor of Deepest Leaves",0,Medium,0,602,610
+1113,"Reported Posts",1,Easy,0,36,165
 1111,"Maximum Nesting Depth of Two Valid Parentheses Strings",0,Medium,0,169,798
 1108,"Defanging an IP Address",0,Easy,0,587,1068
+1271,Hexspeak,1,Easy,0,40,71
+1098,"Unpopular Books",1,Medium,0,81,200
+1256,"Encode Number",1,Medium,0,39,134
 1093,"Statistics from a Large Sample",0,Medium,0,78,307
 1090,"Largest Values From Labels",0,Medium,0,165,410
+1075,"Project Employees I",1,Easy,0,34,44
 1080,"Insufficient Nodes in Root to Leaf Paths",0,Medium,0,228,373
 1078,"Occurrences After Bigram",0,Easy,0,199,216
+1070,"Product Sales Analysis III",1,Medium,0,46,155
+1069,"Product Sales Analysis II",1,Easy,0,30,83
 1053,"Previous Permutation With One Swap",0,Medium,0,220,279
 1051,"Height Checker",0,Easy,0,369,1738
 1163,"Last Substring in Lexicographical Order",0,Hard,0,294,337
+1181,"Before and After Puzzle",1,Medium,0,59,127
 1042,"Flower Planting With No Adjacent",0,Medium,0,490,535
 1037,"Valid Boomerang",0,Easy,0,138,271
 1040,"Moving Stones Until Consecutive II",0,Medium,0,209,383
+1152,"Analyze User Website Visit Pattern",1,Medium,0,145,1310
 1034,"Coloring A Border",0,Medium,0,174,321
 1033,"Moving Stones Until Consecutive",0,Easy,0,94,496
+1118,"Number of Days in a Month",1,Easy,0,17,107
 1025,"Divisor Game",0,Easy,0,660,1826
+1085,"Sum of Digits in the Minimum Number",1,Easy,0,51,115
 1021,"Remove Outermost Parentheses",0,Easy,0,713,784
 1016,"Binary String With Substrings Representing 1 To N",0,Medium,0,148,375
 1015,"Smallest Integer Divisible by K",0,Medium,0,353,381
@@ -1233,6 +1579,7 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 809,"Expressive Words",0,Medium,0,425,1070
 808,"Soup Servings",0,Medium,0,182,591
 806,"Number of Lines To Write String",0,Easy,0,269,958
+800,"Similar RGB Color",1,Easy,0,65,408
 794,"Valid Tic-Tac-Toe State",0,Medium,0,247,714
 789,"Escape The Ghosts",0,Medium,0,214,362
 788,"Rotated Digits",0,Easy,0,398,1332
@@ -1242,41 +1589,58 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 427,"Construct Quad Tree",0,Medium,0,303,464
 762,"Prime Number of Set Bits in Binary Representation",0,Easy,0,296,379
 756,"Pyramid Transition Matrix",0,Medium,0,344,367
+755,"Pour Water",1,Medium,0,212,456
 753,"Cracking the Safe",0,Hard,0,521,765
+751,"IP to CIDR",1,Medium,0,101,814
 749,"Contain Virus",0,Hard,0,127,297
 748,"Shortest Completing Word",0,Easy,0,217,692
 747,"Largest Number At Least Twice of Others",0,Easy,0,397,642
 744,"Find Smallest Letter Greater Than Target",0,Easy,0,557,659
 709,"To Lower Case",0,Easy,0,618,1787
+734,"Sentence Similarity",1,Easy,0,207,342
 722,"Remove Comments",0,Medium,0,427,1120
 720,"Longest Word in Dictionary",0,Easy,0,800,950
 717,"1-bit and 2-bit Characters",0,Easy,0,526,1325
+711,"Number of Distinct Islands II",1,Hard,0,167,184
 682,"Baseball Game",0,Easy,0,656,1201
+681,"Next Closest Time",1,Medium,0,546,807
 672,"Bulb Switcher II",0,Medium,0,158,937
 671,"Second Minimum Node In a Binary Tree",0,Easy,0,744,1003
 667,"Beautiful Arrangement II",0,Medium,0,380,682
+666,"Path Sum IV",1,Medium,0,202,276
 661,"Image Smoother",0,Easy,0,286,1207
+660,"Remove 9",1,Hard,0,112,147
 655,"Print Binary Tree",0,Medium,0,405,938
 640,"Solve the Equation",0,Medium,0,279,575
 639,"Decode Ways II",0,Hard,0,549,582
 636,"Exclusive Time of Functions",0,Medium,0,956,1697
+631,"Design Excel Sum Formula",1,Hard,0,96,97
+618,"Students Report By Geography",1,Hard,0,75,97
+614,"Second Degree Follower",1,Medium,0,79,553
 609,"Find Duplicate File in System",0,Medium,0,530,681
 606,"Construct String from Binary Tree",0,Easy,0,897,1226
 601,"Human Traffic of Stadium",0,Hard,0,212,407
 598,"Range Addition II",0,Easy,0,348,600
+597,"Friend Requests I: Overall Acceptance Rate",1,Easy,0,171,390
 596,"Classes More Than 5 Students",0,Easy,0,272,718
 595,"Big Countries",0,Easy,0,557,736
 593,"Valid Square",0,Medium,0,428,580
 592,"Fraction Addition and Subtraction",0,Medium,0,215,338
 591,"Tag Validator",0,Hard,0,97,447
+579,"Find Cumulative Salary of an Employee",1,Hard,0,119,260
+578,"Get Highest Answer Rate Question",1,Medium,0,46,539
 575,"Distribute Candies",0,Easy,0,562,928
+574,"Winning Candidate",1,Medium,0,79,319
 564,"Find the Closest Palindrome",0,Hard,0,332,942
 563,"Binary Tree Tilt",0,Easy,0,812,1533
+555,"Split Concatenated Strings",1,Medium,0,59,208
 553,"Optimal Division",0,Medium,0,191,1191
 551,"Student Attendance Record I",0,Easy,0,364,912
+545,"Boundary of Binary Tree",1,Medium,0,678,1186
 541,"Reverse String II",0,Easy,0,545,1522
 537,"Complex Number Multiplication",0,Medium,0,280,788
 535,"Encode and Decode TinyURL",0,Medium,0,770,1625
+533,"Lonely Pixel II",1,Medium,0,55,597
 532,"K-diff Pairs in an Array",0,Medium,0,1028,1549
 523,"Continuous Subarray Sum",0,Medium,0,1801,2498
 522,"Longest Uncommon Subsequence II",0,Medium,0,201,643
@@ -1293,17 +1657,20 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 481,"Magical String",0,Medium,0,123,740
 479,"Largest Palindrome Product",0,Hard,0,99,1357
 475,Heaters,0,Medium,0,848,918
+469,"Convex Polygon",1,Medium,0,72,194
 468,"Validate IP Address",0,Medium,0,441,1931
 458,"Poor Pigs",0,Hard,0,537,1023
 457,"Circular Array Loop",0,Medium,0,467,1512
 453,"Minimum Moves to Equal Array Elements",0,Easy,0,728,1057
 447,"Number of Boomerangs",0,Medium,0,448,745
+444,"Sequence Reconstruction",1,Medium,0,351,1172
 443,"String Compression",0,Medium,0,1127,2997
 434,"Number of Segments in a String",0,Easy,0,280,833
 423,"Reconstruct Original Digits from English",0,Medium,0,195,645
 420,"Strong Password Checker",0,Hard,0,286,861
 414,"Third Maximum Number",0,Easy,0,888,1578
 412,"Fizz Buzz",0,Easy,0,1200,1462
+408,"Valid Word Abbreviation",1,Easy,0,179,749
 401,"Binary Watch",0,Easy,0,688,1214
 400,"Nth Digit",0,Medium,0,444,1182
 398,"Random Pick Index",0,Medium,0,609,788
@@ -1311,12 +1678,15 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 388,"Longest Absolute File Path",0,Medium,0,694,1654
 385,"Mini Parser",0,Medium,0,276,943
 384,"Shuffle an Array",0,Medium,0,77,100
+379,"Design Phone Directory",1,Medium,0,204,313
 375,"Guess Number Higher or Lower II",0,Medium,0,970,1450
 374,"Guess Number Higher or Lower",0,Easy,0,541,1984
 372,"Super Pow",0,Medium,0,285,854
 371,"Sum of Two Integers",0,Medium,0,1548,2593
 365,"Water and Jug Problem",0,Medium,0,383,846
 357,"Count Numbers with Unique Digits",0,Medium,0,523,969
+356,"Line Reflection",1,Medium,0,158,373
+351,"Android Unlock Patterns",1,Medium,0,451,774
 349,"Intersection of Two Arrays",0,Easy,0,1225,1454
 345,"Reverse Vowels of a String",0,Easy,0,911,1404
 335,"Self Crossing",0,Hard,0,169,394
@@ -1325,12 +1695,15 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 306,"Additive Number",0,Medium,0,481,484
 303,"Range Sum Query - Immutable",0,Easy,0,1165,1282
 299,"Bulls and Cows",0,Medium,0,896,1016
+293,"Flip Game",1,Easy,0,125,314
 292,"Nim Game",0,Easy,0,733,1802
+288,"Unique Word Abbreviation",1,Medium,0,125,1458
 275,"H-Index II",0,Medium,0,518,797
 274,H-Index,0,Medium,0,867,1427
 273,"Integer to English Words",0,Hard,0,1346,3407
 263,"Ugly Number",0,Easy,0,670,742
 258,"Add Digits",0,Easy,0,1064,1251
+246,"Strobogrammatic Number",1,Easy,0,261,528
 237,"Delete Node in a Linked List",0,Easy,0,2294,8558
 233,"Number of Digit One",0,Hard,0,362,706
 223,"Rectangle Area",0,Medium,0,497,840
@@ -1343,7 +1716,11 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 172,"Factorial Trailing Zeroes",0,Easy,0,1172,1339
 166,"Fraction to Recurring Decimal",0,Medium,0,1057,2164
 165,"Compare Version Numbers",0,Medium,0,760,1657
+163,"Missing Ranges",1,Easy,0,480,2071
 162,"Find Peak Element",0,Medium,0,2475,2495
+158,"Read N Characters Given Read4 II - Call multiple times",1,Hard,0,593,1284
+157,"Read N Characters Given Read4",1,Easy,0,360,2338
+156,"Binary Tree Upside Down",1,Medium,0,330,1022
 151,"Reverse Words in a String",0,Medium,0,1482,3139
 149,"Max Points on a Line",0,Hard,0,1086,2294
 125,"Valid Palindrome",0,Easy,0,1734,3538
@@ -1366,3 +1743,5 @@ questionFrontendId,title,isPaidOnly,difficulty,likeDislike_ratio,likes,dislikes
 8,"String to Integer (atoi)",0,Medium,0,32,75
 7,"Reverse Integer",0,Easy,0,4300,6636
 6,"ZigZag Conversion",0,Medium,0,2164,5465
+1746,"Maximum Subarray Sum After One Operation",1,Medium,,26,0
+1427,"Perform String Shifts",1,Easy,,70,0
